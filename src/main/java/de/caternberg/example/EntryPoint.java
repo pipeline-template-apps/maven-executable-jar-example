@@ -12,7 +12,7 @@ public class EntryPoint {
         long endTime = System.nanoTime();
         long totalTime = endTime - startTime;
         System.out.println("Total Time " + totalTime / 1000000000);
-        System.out.println("Logic executed successfully....");
+        System.out.prinXXXtln("Logic executed successfully....");
     }
 
 }
